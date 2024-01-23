@@ -51,7 +51,6 @@ pip install zhipuai
 
 Please be careful when handling your API key to prevent misuse. We are still working to make the process more secure and efficient.
 
-# Caution!
-
+# TODO
 This method is in its beta phase. If you find any bug or have any suggestions, feel free to open an issue or a pull request.
 my email address is jcandzero@163.com 
