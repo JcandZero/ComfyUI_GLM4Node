@@ -11,6 +11,7 @@ GLM3_trubo_node  √
 ### 1. GLM4 Vision Integration
 GLM Vision is now integrated into this project. Due to the slow transmission rate of base64 in GLM4, we temporarily support uploading via URL.
 The function of this feature is to allow users to upload images for processing via a URL, then user could use this function to chat with GLM4 agent. This enhances the user experience and processing speed.
+![Image text](https://github.com/JcandZero/ComfyUI_GLM4Node/blob/main/Image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-23%20142722.png)
 
 #### 1.1 Usage
 To use GLM4 Vision, follow the steps below:
@@ -21,6 +22,7 @@ Upload your API key to the node. It’s very important to make sure that your AP
 
 ### 2. GLM4 Chat
 GLM 4 is very powerful large language model capable of responding to and solving very complex problems
+![Image text](https://github.com/JcandZero/ComfyUI_GLM4Node/blob/main/Image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-23%20161656.png)
 
 #### 2.1 Usage
 To use GLM4 , follow the steps below:
@@ -28,11 +30,13 @@ To use GLM4 , follow the steps below:
 Upload your API key to the node. Then It’s very important to make sure that your API key is working properly.
 Then input your prompt. Use the queue to create the answer
 
-### 2. GLM3_turbo Chat
+### 3. GLM3_turbo Chat
 GLM Vision is now integrated into this project. Due to the slow transmission rate of base64 in GLM4, we temporarily support uploading via URL.
 The function of this feature is to allow users to upload images for processing via a URL, then user could use this function to chat with GLM4 agent. This enhances the user experience and processing speed.
+![Image text](https://github.com/JcandZero/ComfyUI_GLM4Node/blob/main/Image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-23%20154233.png)
 
-#### 2.1 Usage
+
+#### 3.1 Usage
 To use GLM4 , follow the steps below:
 
 Upload your API key to the node. Then It’s very important to make sure that your API key is working properly.
