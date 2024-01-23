@@ -43,7 +43,7 @@ Upload your API key to the node. Then It’s very important to make sure that yo
 Then input your prompt. Use the queue to create the answer
 
 
-#### example of usage
+## example of usage
 
 ```cmd
 pip install zhipuai
