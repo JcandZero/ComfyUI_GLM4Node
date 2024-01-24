@@ -7,6 +7,9 @@ GLM4_node        √
 
 GLM3_trubo_node  √
 
+我在视频当中放的API是没法用的，大家要使用的话得自己获得自己的API
+The API I included in the video cannot be used. If you want to use it, you need to obtain your own API.
+
 ## FUCTION
 ### 1. GLM4 Vision Integration
 GLM Vision is now integrated into this project. Due to the slow transmission rate of base64 in GLM4, we temporarily support uploading via URL.
