@@ -1,5 +1,5 @@
 # ComfyUI_GLM4Node
-Recent：I have successfully load the vision understanding fuction of the GLM4 in COMFYUI. Anyuser could use their own API-KEY to use this fuction
+Recent：I have successfully load the vision understanding fuction of the one of the Chinese most powerful LLM GLM4 in COMFYUI. Anyuser could use their own API-KEY to use this fuction
 
 GLM4_vision_node √
 
